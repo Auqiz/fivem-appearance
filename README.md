@@ -1,6 +1,6 @@
 # oxmysql-converted-fivem-appearance
 
-This is something I made for my server a couple months ago I take no credit for the UI all I've done is make the LUA side with clothing shops, barber shops and saved outfits the original post was from https://forum.cfx.re/t/release-fivem-appearance/2438537
+This is something I converted, I take no credit for the UI all I've done is make the LUA side with clothing shops, barber shops and saved outfits the original post was from https://forum.cfx.re/t/release-fivem-appearance/2438537
 
 ## Dependencies
 
@@ -51,4 +51,4 @@ setr fivem-appearance:locale "en"
 ![](https://i.imgur.com/hyhXldt.jpeg"")
 ![](https://i.imgur.com/ACKPHv3.jpeg"")
 
---Convert to oxmysql by Gucci
+## Converted to oxmysql by Gucci
